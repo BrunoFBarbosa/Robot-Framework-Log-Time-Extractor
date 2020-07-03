@@ -4,9 +4,7 @@ import errno
 import csv
 import glob
 from lxml import etree
-import xml.etree.ElementTree as ET
 import datetime
-import collections
 
 #time format from the logs
 fmt = '%Y%m%d %H:%M:%S.%f'
